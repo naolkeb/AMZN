@@ -1,0 +1,6 @@
+#virtualenv
+.__pycache__/
+.amzn_app/
+#database
+database.ini
+api_key.txt
